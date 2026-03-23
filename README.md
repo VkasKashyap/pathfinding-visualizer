@@ -1,8 +1,10 @@
 # Advanced Algorithmic Pathfinding Visualizer
 
-<div align="center">
-  <video src="assets/demo.mp4" width="800" controls autoplay loop muted></video>
-</div>
+
+
+https://github.com/user-attachments/assets/8bfda34a-6444-46cc-9aea-0694d3a92454
+
+
 
 ## 📌 Overview
 An interactive, high-performance pathfinding and graph traversal visualizer built entirely in modern C++ (C++17) using the SFML graphics library. 
@@ -113,10 +115,7 @@ This project utilizes **Google Test** to ensure the reliability of the core grid
 ./build/RunTests.exe
 
 
-
 ## 🔮 Future Improvements
-
-
 
 Planned upgrades include:
 
