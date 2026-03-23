@@ -1,7 +1,7 @@
 # Advanced Algorithmic Pathfinding Visualizer
 
 <div align="center">
-  <video src="assets/demo.mp4" width="800" controls autoplay loop muted></video>
+  <video src="assets/demo.mp4.mp4" width="800" controls autoplay loop muted></video>
 </div>
 
 ## 📌 Overview
